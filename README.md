@@ -1,13 +1,13 @@
 # Hi, I'm Gokhan 👋🏻 👨‍💻
 
-<img src="assets/banner-name.png" width="100%" align="center" alt="banner that says Gokhan Ozturk">
+<img src="https://raw.githubusercontent.com/gokhanozt/gokhanozt/master/assets/banner-name.png" width="100%" align="center" alt="banner that says Gokhan Ozturk">
 
 &nbsp;
 
 I'm a frontend developer with 4+ years of experience designing, developing, and managing responsive websites and internal frameworks. Passionate about using usability methods and creative designs Some technologies I enjoy working with include SCSS,LESS, JS, JQuery, ReactJS and VueJS 💖
 
 
-## Find me around the web 🌎: <a href="https://github.com/gokhanozt"><img align="left" width="150" height="150" src="assets/avatar-me.gif"></a>
+## Find me around the web 🌎: <a href="https://github.com/gokhanozt"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gokhanozt/gokhanozt/master/assets/avatar-me.gif"></a>
 - Trying to have fun on <a href="http://www.gokhan.fun">gokhan.fun</a> (under construction) 🎮 ✍🏻
 - You can find me on <a href="https://www.linkedin.com/in/ozturkgokhan94/">LinkedIn</a> 💼 🎓
 
