@@ -1,6 +1,6 @@
 # Hi, I'm Gokhan 👋🏻 👨‍💻
 
-<img src="assets/banner-name.PNG" width="100%" align="center" alt="banner that says Gokhan Ozturk">
+<img src="assets/banner-name.png" width="100%" align="center" alt="banner that says Gokhan Ozturk">
 
 &nbsp;
 
