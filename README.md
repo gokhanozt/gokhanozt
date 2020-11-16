@@ -4,7 +4,7 @@
 
 &nbsp;
 
-I'm a frontend developer with 4+ years of experience designing, developing, and managing responsive websites and internal frameworks. Passionate about using usability methods and creative designs Some technologies I enjoy working with include SCSS,LESS, JS, JQuery, ReactJS and VueJS 💖
+Inventive Frontend Developer with 4+ years of experience designing, developing, and managing responsive websites and internal frameworks. Specializes in ReactJs, Javascript, Jquery,HTML5 and CSS (SCSS). Passionate about using usability methods and creative designs.💖
 
 
 ## Find me around the web 🌎: <a href="https://github.com/gokhanozt"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gokhanozt/gokhanozt/master/assets/avatar-me.gif"></a>
