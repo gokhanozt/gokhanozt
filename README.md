@@ -8,7 +8,7 @@ Inventive Frontend Developer with 4+ years of experience designing, developing, 
 
 
 ## Find me around the web 🌎: <a href="https://github.com/gokhanozt"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/gokhanozt/gokhanozt/master/assets/avatar-me.gif"></a>
-- Trying to have fun on <a href="http://www.gokhan.fun">gokhan.fun</a> (under construction) 🎮 ✍🏻
+- Trying to have fun on <a href="http://www.gokhan.me">gokhan.me</a> (under construction) 🎮 ✍🏻
 - You can find me on <a href="https://www.linkedin.com/in/ozturkgokhan94/">LinkedIn</a> 💼 🎓
 
 
